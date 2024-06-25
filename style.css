@@ -133,7 +133,7 @@ img{
   border-radius: 5px;
 }
 img:hover{
-  transform: translateZ(16px);
+  transform: translateZ(9px);
 }
 .gamedev{
   display: flex;
